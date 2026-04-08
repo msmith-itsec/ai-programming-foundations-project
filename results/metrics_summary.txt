@@ -1,0 +1,6 @@
+Accuracy:  0.8496
+Precision: 0.9024
+Recall:    0.6981
+F1-score:  0.7872
+Train samples: 529
+Test samples:  133

@@ -1,0 +1,8 @@
+Dataset rows: 662
+Dataset columns: 4
+Text column: text
+Label column: label
+Label counts:
+label
+0    399
+1    263
